@@ -1,0 +1,24 @@
+[
+	{
+		"id" : 10156,
+		"funcionario" : "ROSANE MANICA",
+		"ramal" : "(71) 3340-1023",
+		"cel" : "(71) 99161-6899",
+		"funcao" : "Diretora",
+		"email" : "rosane@nutricash.com.br",
+		"setor" : "Direção Geral",
+        "guid" : "http://intranet.nutricash.com.br/wp-content/uploads/2019/06/Rosane-Manica.jpg",
+        "Niver" : "2020-12-30"
+	},
+	{
+		"id" : 10157,
+		"funcionario" : "ISAILDES OLIVEIRA",
+		"ramal" : "(71) 3340-1021",
+		"cel" : "(71) 99166-8701",
+		"funcao" : "Secretária",
+		"email" : "isaildes.oliveira@maxifrota.com.br",
+		"setor" : "Direção Geral",
+        "guid" : "http://intranet.nutricash.com.br/wp-content/uploads/2019/06/Isaildes.jpg",
+        "Niver" : "2020-11-20" 
+    }
+]

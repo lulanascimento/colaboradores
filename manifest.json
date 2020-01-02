@@ -1,0 +1,21 @@
+﻿{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "NC&MX Colaboarores",
+    "icons": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    },
+    "permissions": [
+        "http://192.168.10.55/Ramal/Colaboradores.json"
+      ],
+    "description": "Extensão de consulta para colaboradores NC|MX",
+    "author": "Luis Nascimento & Denilton das Querys, Ramon Mestre Javeiro",
+    "browser_action": {
+   	 "default_title": "Colaboradores",
+   	 "default_popup": "index.html",
+     "default_icon": "icon.png"
+     },
+     "content_security_policy": "script-src 'self' 'unsafe-eval' https://cdn.jsdelivr.net; object-src 'self' "
+    }
