@@ -4,11 +4,6 @@
 $(document).ready(function(){
     var data = $.getJSON( "ColaboradoresData.json" , function(data){
 
-        function dataniversario(event_begin) {
-            return data.filter(
-                function(data){return data.event_begin == event_begin}
-            );
-          }
 
 
     var today = new Date();
