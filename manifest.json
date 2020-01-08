@@ -11,7 +11,7 @@
         "http://192.168.10.55/Ramal/Colaboradores.json"
       ],
     "description": "Extensão de consulta para colaboradores NC|MX",
-    "author": "Luis Nascimento & Denilton das Querys, Ramon Mestre Javeiro",
+    "author": "Luis Nascimento & Denilton das Querys & Ramon Mestre Javeiro",
     "browser_action": {
    	 "default_title": "Colaboradores",
    	 "default_popup": "index.html",
