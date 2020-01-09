@@ -1,8 +1,5 @@
-
-
-
 $(document).ready(function(){
-    var data = $.getJSON( "Colaboradores2.json" , function(data){
+    var data = $.getJSON( "http://192.168.10.55/Ramal/Colaboradores.json" , function(data){
 
 $('#json-search').keyup(function(){
             var searchField = $(this).val();

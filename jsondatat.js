@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    var data = $.getJSON( "colaboradoresData.json" , function(data){
+    var data = $.getJSON( "http://192.168.10.55/Ramal/ColaboradoresData.json" , function(data){
 
         var today = new Date();
         var dd = String(today.getDate()).padStart(2, '0');
